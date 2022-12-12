@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/get-template/cli-template.git"
+    "url": "git+https://github.com/suchlab/cli-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/get-template/cli-template/issues"
+    "url": "https://github.com/suchlab/cli-template/issues"
   },
-  "homepage": "https://github.com/get-template/cli-template#readme",
+  "homepage": "https://github.com/suchlab/cli-template#readme",
   "dependencies": {
     "arg": "^5.0.1",
     "axios": "^0.26.0",
